@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hello 
 bye
 hellomore
+=======
+hellosss 
+>>>>>>> 2fbb870d14dd6501d33b991d7f88b5cdc16e358d
